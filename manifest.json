@@ -1,0 +1,46 @@
+{
+ "edition": "madinah1441",
+ "base": "https://ibrahim4a85.github.io/m1441/",
+ "chunks": [
+  {
+   "file": "iqra-madinah1441-p001-076.zip",
+   "bytes": 7179458,
+   "sha256": "fb189b3d340bf5d47150c7a5560e108c00f88383406dd7b0403445afb41a965f"
+  },
+  {
+   "file": "iqra-madinah1441-p077-152.zip",
+   "bytes": 7339512,
+   "sha256": "40b4d10d8c15e47cab1bc45d65831f81bba272a3e091124d1b6ac865112e51e9"
+  },
+  {
+   "file": "iqra-madinah1441-p153-228.zip",
+   "bytes": 7239466,
+   "sha256": "ab77260f479624c88fa2743d6759dfe506625af5b065df954f5dfbf74fc2dca7"
+  },
+  {
+   "file": "iqra-madinah1441-p229-304.zip",
+   "bytes": 7294156,
+   "sha256": "8f2f5ef3863058c473bc9c6de6e08315fb5012c44399b65e10c4e2f1d56e70f5"
+  },
+  {
+   "file": "iqra-madinah1441-p305-380.zip",
+   "bytes": 7308818,
+   "sha256": "a5d4a6f4e0948e395c6fc651505841e5af625513c0199c4f246ace6cb4b59a64"
+  },
+  {
+   "file": "iqra-madinah1441-p381-456.zip",
+   "bytes": 7289538,
+   "sha256": "39dfe6971264060b8393f6a4f54a3b49ae4ce45cf84829c8edba8e6a15703c56"
+  },
+  {
+   "file": "iqra-madinah1441-p457-532.zip",
+   "bytes": 7362220,
+   "sha256": "eada51ea94fe6e4f530528ff7f35819d50f4b1a4abe1e63541f6d2cb26fb14fc"
+  },
+  {
+   "file": "iqra-madinah1441-p533-604.zip",
+   "bytes": 6815678,
+   "sha256": "99d66c6deb517d8aa001496ed79a6b8a318ae11f650b12240e835d1b8cc73cea"
+  }
+ ]
+}
